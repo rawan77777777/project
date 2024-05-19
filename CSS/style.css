@@ -1,0 +1,9 @@
+.Quote{
+    margin-block: 80px;
+    /* padding-top: 80px; */
+}
+.Quote h1{
+    font-weight: 900;
+    font-size: 70px;
+   color:black;
+}
